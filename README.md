@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **React**
 
-- 👨‍💻 All of my projects are available at [https://gitelmanmarcelo.github.io/Portfolio/](https://gitelmanmarcelo.github.io/Portfolio/)
+- 👨‍💻 Some of my projects are available at [https://gitelmanmarcelo.github.io/Portfolio/](https://gitelmanmarcelo.github.io/Portfolio/)
 
 - 📫 How to reach me **marcelo.gitelman@gmail.com**
 
